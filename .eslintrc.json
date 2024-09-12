@@ -26,7 +26,7 @@
     "react",
     "@typescript-eslint",
     "react-hooks",
-    "sort-keys-custom-order",
+    // "sort-keys-custom-order",
     "simple-import-sort",
     "next",
     "next/core-web-vitals",
